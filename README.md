@@ -1,7 +1,7 @@
 # Simple Regex Keyword Tool
 
 A simple tool to convert your script using predefined regex patterns.  
-Built with **Python** and **PyInstaller**.  
+Built with Python and PyInstaller.  
 
 
 ## Description  
