@@ -16,7 +16,7 @@ It uses predefined regex patterns based on my **custom keywords**.
 4. **Check** the `output.txt` for the converted result.
 
 
-## ⚙️ Customization  
+## Customization  
 If you want to use this tool for your own keywords:
 - Download the **source code** from this repository.
 - Edit the regex logic inside `regex.py` to suit your needs.
